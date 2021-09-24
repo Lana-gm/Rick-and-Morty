@@ -5,4 +5,4 @@
 - yarn install
 - yarn start
 
-<!-- View Demo: https://shop-gules-sigma.vercel.app/ -->
+View Demo: https://rick-and-morty-rho-peach.vercel.app/
